@@ -1,0 +1,301 @@
+text,intent,language
+FR: The fire alarm is ringing,fire_emergency,fr
+My friend is bleeding,medical_help,en
+HI: My brother is unconscious,medical_help,hi
+ES: My child is missing,lost_person,es
+BN: Someone threatened me,police_assistance,bn
+BN: We need a doctor immediately,medical_help,bn
+ES: He is missing since morning,lost_person,es
+Nobody is responding,other_emergency,en
+We need a doctor immediately,medical_help,en
+BN: Someone is looking for their daughter,lost_person,bn
+ES: The forest is burning,fire_emergency,es
+BN: Roads are submerged in water,natural_disaster,bn
+FR: A child got lost at the station,lost_person,fr
+HI: My child is missing,lost_person,hi
+The situation is very bad,other_emergency,en
+BN: We need help right now,other_emergency,bn
+HI: My car was vandalized,police_assistance,hi
+There's suspicious activity,police_assistance,en
+HI: A woman is being harassed,police_assistance,hi
+ES: There is a storm coming,natural_disaster,es
+ES: Child is vomiting and dizzy,medical_help,es
+My brother is unconscious,medical_help,en
+Our house is flooding,natural_disaster,en
+FR: I think it’s an earthquake,natural_disaster,fr
+HI: There is a storm coming,natural_disaster,hi
+HI: My friend is bleeding,medical_help,hi
+FR: My friend is bleeding,medical_help,fr
+My mother hasn’t returned,lost_person,en
+BN: There is a fire in the building,fire_emergency,bn
+FR: My brother is unconscious,medical_help,fr
+FR: I smell something burning,fire_emergency,fr
+Someone stole my phone,police_assistance,en
+HI: Something feels wrong,other_emergency,hi
+HI: We can't find our son,lost_person,hi
+FR: Please send help fast,other_emergency,fr
+BN: The ground is shaking,natural_disaster,bn
+BN: An old man is wandering alone,lost_person,bn
+HI: She went to the market and didn’t come back,lost_person,hi
+I’m being followed,police_assistance,en
+FR: Roads are submerged in water,natural_disaster,fr
+FR: My child is missing,lost_person,fr
+My mom is not breathing,medical_help,en
+People are screaming,other_emergency,en
+FR: My kitchen is on fire,fire_emergency,fr
+FR: The situation is very bad,other_emergency,fr
+BN: Loud noises are coming from outside,other_emergency,bn
+ES: I think it’s an earthquake,natural_disaster,es
+She went to the market and didn’t come back,lost_person,en
+Please send help fast,other_emergency,en
+BN: There’s smoke coming from the window,fire_emergency,bn
+FR: We can't find our son,lost_person,fr
+Everyone is running,other_emergency,en
+FR: There’s a robbery going on,police_assistance,fr
+FR: The power socket exploded,fire_emergency,fr
+There’s a robbery going on,police_assistance,en
+The ground is shaking,natural_disaster,en
+ES: An old man is wandering alone,lost_person,es
+FR: She went to the market and didn’t come back,lost_person,fr
+HI: We need help right now,other_emergency,hi
+There is a fire in the building,fire_emergency,en
+FR: Our house is flooding,natural_disaster,fr
+BN: A man collapsed on the road,medical_help,bn
+HI: A person is having a seizure,medical_help,hi
+ES: There’s smoke coming from the window,fire_emergency,es
+ES: The bridge has collapsed,natural_disaster,es
+FR: Someone stole my phone,police_assistance,fr
+ES: Flames are visible outside,fire_emergency,es
+I smell something burning,fire_emergency,en
+FR: Trees are falling due to the wind,natural_disaster,fr
+ES: I’m being followed,police_assistance,es
+My child is missing,lost_person,en
+FR: People are screaming,other_emergency,fr
+BN: The situation is very bad,other_emergency,bn
+Trees are falling due to the wind,natural_disaster,en
+FR: I’m being followed,police_assistance,fr
+BN: Something feels wrong,other_emergency,bn
+ES: Loud noises are coming from outside,other_emergency,es
+HI: Flames are visible outside,fire_emergency,hi
+FR: There's suspicious activity,police_assistance,fr
+ES: A woman is being harassed,police_assistance,es
+BN: A woman is being harassed,police_assistance,bn
+FR: Lightning struck nearby,natural_disaster,fr
+ES: My kitchen is on fire,fire_emergency,es
+HI: The ground is shaking,natural_disaster,hi
+ES: We can't find our son,lost_person,es
+BN: He is missing since morning,lost_person,bn
+ES: Someone is looking for their daughter,lost_person,es
+BN: Please send help fast,other_emergency,bn
+The bridge has collapsed,natural_disaster,en
+FR: Someone fainted here,medical_help,fr
+There's a fight outside,police_assistance,en
+FR: The bridge has collapsed,natural_disaster,fr
+The fire alarm is ringing,fire_emergency,en
+HI: The power socket exploded,fire_emergency,hi
+FR: Someone is looking for their daughter,lost_person,fr
+BN: I need an ambulance,medical_help,bn
+ES: There is a fire in the building,fire_emergency,es
+ES: There is panic everywhere,other_emergency,es
+FR: The ground is shaking,natural_disaster,fr
+HI: Roads are submerged in water,natural_disaster,hi
+FR: Child is vomiting and dizzy,medical_help,fr
+HI: My house was broken into,police_assistance,hi
+ES: We need help right now,other_emergency,es
+HI: There's suspicious activity,police_assistance,hi
+ES: I smell something burning,fire_emergency,es
+The gas cylinder burst,fire_emergency,en
+HI: The gas cylinder burst,fire_emergency,hi
+FR: He is missing since morning,lost_person,fr
+There is a storm coming,natural_disaster,en
+BN: There is heavy smoke everywhere,fire_emergency,bn
+ES: The fire alarm is ringing,fire_emergency,es
+BN: Trees are falling due to the wind,natural_disaster,bn
+BN: The forest is burning,fire_emergency,bn
+HI: He is missing since morning,lost_person,hi
+FR: Water is entering the house,natural_disaster,fr
+Someone threatened me,police_assistance,en
+HI: An old man is wandering alone,lost_person,hi
+ES: Someone stole my phone,police_assistance,es
+ES: I need an ambulance,medical_help,es
+BN: My brother is unconscious,medical_help,bn
+FR: There is a fire in the building,fire_emergency,fr
+ES: Someone threatened me,police_assistance,es
+HI: I need an ambulance,medical_help,hi
+There's been an accident,medical_help,en
+ES: My mom is not breathing,medical_help,es
+HI: A child got lost at the station,lost_person,hi
+BN: There's a fight outside,police_assistance,bn
+BN: People are screaming,other_emergency,bn
+BN: I don’t know what’s happening,other_emergency,bn
+BN: Flames are visible outside,fire_emergency,bn
+FR: My mother hasn’t returned,lost_person,fr
+ES: Lightning struck nearby,natural_disaster,es
+I think it’s an earthquake,natural_disaster,en
+Someone fainted here,medical_help,en
+BN: My car was vandalized,police_assistance,bn
+HI: Trees are falling due to the wind,natural_disaster,hi
+FR: I need an ambulance,medical_help,fr
+FR: My house was broken into,police_assistance,fr
+FR: Flames are visible outside,fire_emergency,fr
+The forest is burning,fire_emergency,en
+The landslide blocked the road,natural_disaster,en
+HI: There's been an accident,medical_help,hi
+FR: A woman is being harassed,police_assistance,fr
+BN: I lost my friend in the crowd,lost_person,bn
+My kitchen is on fire,fire_emergency,en
+ES: There's suspicious activity,police_assistance,es
+HI: There is panic everywhere,other_emergency,hi
+ES: We need a doctor immediately,medical_help,es
+HI: There is heavy smoke everywhere,fire_emergency,hi
+FR: We need a doctor immediately,medical_help,fr
+HI: We lost our uncle during the event,lost_person,hi
+FR: I just witnessed a crime,police_assistance,fr
+FR: I lost my friend in the crowd,lost_person,fr
+ES: I lost my friend in the crowd,lost_person,es
+ES: Roads are submerged in water,natural_disaster,es
+FR: We lost our uncle during the event,lost_person,fr
+A woman is being harassed,police_assistance,en
+HI: There’s a robbery going on,police_assistance,hi
+HI: There’s smoke coming from the window,fire_emergency,hi
+HI: My mother hasn’t returned,lost_person,hi
+ES: Water is entering the house,natural_disaster,es
+BN: There's been an accident,medical_help,bn
+BN: I think it’s an earthquake,natural_disaster,bn
+We need help right now,other_emergency,en
+ES: The power socket exploded,fire_emergency,es
+HI: I smell something burning,fire_emergency,hi
+FR: The landslide blocked the road,natural_disaster,fr
+FR: I don’t know what’s happening,other_emergency,fr
+ES: People are screaming,other_emergency,es
+HI: There's a fight outside,police_assistance,hi
+There is panic everywhere,other_emergency,en
+ES: The ground is shaking,natural_disaster,es
+BN: Someone stole my phone,police_assistance,bn
+ES: The landslide blocked the road,natural_disaster,es
+FR: There is panic everywhere,other_emergency,fr
+HI: My mom is not breathing,medical_help,hi
+FR: The forest is burning,fire_emergency,fr
+ES: The gas cylinder burst,fire_emergency,es
+There is heavy smoke everywhere,fire_emergency,en
+BN: We lost our uncle during the event,lost_person,bn
+ES: Please send help fast,other_emergency,es
+BN: There is panic everywhere,other_emergency,bn
+FR: There's been an accident,medical_help,fr
+HI: Everyone is running,other_emergency,hi
+HI: The situation is very bad,other_emergency,hi
+BN: The gas cylinder burst,fire_emergency,bn
+HI: Lightning struck nearby,natural_disaster,hi
+BN: Someone fainted here,medical_help,bn
+HI: My kitchen is on fire,fire_emergency,hi
+BN: A child got lost at the station,lost_person,bn
+ES: There's a fight outside,police_assistance,es
+HI: Please send help fast,other_emergency,hi
+HI: I just witnessed a crime,police_assistance,hi
+HI: Someone is looking for their daughter,lost_person,hi
+ES: A child got lost at the station,lost_person,es
+ES: Trees are falling due to the wind,natural_disaster,es
+ES: Someone fainted here,medical_help,es
+FR: The gas cylinder burst,fire_emergency,fr
+An old man is wandering alone,lost_person,en
+Something feels wrong,other_emergency,en
+Roads are submerged in water,natural_disaster,en
+ES: My friend is bleeding,medical_help,es
+HI: Water is entering the house,natural_disaster,hi
+ES: I don’t know what’s happening,other_emergency,es
+ES: A man collapsed on the road,medical_help,es
+ES: Something feels wrong,other_emergency,es
+ES: My car was vandalized,police_assistance,es
+ES: There's been an accident,medical_help,es
+Water is entering the house,natural_disaster,en
+ES: My brother is unconscious,medical_help,es
+My house was broken into,police_assistance,en
+BN: My house was broken into,police_assistance,bn
+HI: Someone threatened me,police_assistance,hi
+There’s smoke coming from the window,fire_emergency,en
+My car was vandalized,police_assistance,en
+HI: People are screaming,other_emergency,hi
+FR: There is heavy smoke everywhere,fire_emergency,fr
+BN: I just witnessed a crime,police_assistance,bn
+HI: I think it’s an earthquake,natural_disaster,hi
+FR: Nobody is responding,other_emergency,fr
+BN: There's suspicious activity,police_assistance,bn
+FR: A person is having a seizure,medical_help,fr
+HI: Child is vomiting and dizzy,medical_help,hi
+BN: I smell something burning,fire_emergency,bn
+ES: My mother hasn’t returned,lost_person,es
+HI: There is a fire in the building,fire_emergency,hi
+HI: The landslide blocked the road,natural_disaster,hi
+BN: My friend is bleeding,medical_help,bn
+FR: There's a fight outside,police_assistance,fr
+HI: Nobody is responding,other_emergency,hi
+FR: Someone threatened me,police_assistance,fr
+BN: Our house is flooding,natural_disaster,bn
+BN: The bridge has collapsed,natural_disaster,bn
+FR: Something feels wrong,other_emergency,fr
+HI: Our house is flooding,natural_disaster,hi
+Loud noises are coming from outside,other_emergency,en
+FR: Everyone is running,other_emergency,fr
+BN: Water is entering the house,natural_disaster,bn
+Child is vomiting and dizzy,medical_help,en
+FR: Loud noises are coming from outside,other_emergency,fr
+BN: I’m being followed,police_assistance,bn
+BN: The fire alarm is ringing,fire_emergency,bn
+I need an ambulance,medical_help,en
+ES: There is heavy smoke everywhere,fire_emergency,es
+HI: The bridge has collapsed,natural_disaster,hi
+ES: I just witnessed a crime,police_assistance,es
+BN: Lightning struck nearby,natural_disaster,bn
+BN: My child is missing,lost_person,bn
+ES: Nobody is responding,other_emergency,es
+BN: My mom is not breathing,medical_help,bn
+HI: I don’t know what’s happening,other_emergency,hi
+BN: My kitchen is on fire,fire_emergency,bn
+HI: We need a doctor immediately,medical_help,hi
+Lightning struck nearby,natural_disaster,en
+A child got lost at the station,lost_person,en
+Someone is looking for their daughter,lost_person,en
+BN: Child is vomiting and dizzy,medical_help,bn
+FR: My mom is not breathing,medical_help,fr
+A man collapsed on the road,medical_help,en
+I don’t know what’s happening,other_emergency,en
+FR: My car was vandalized,police_assistance,fr
+FR: A man collapsed on the road,medical_help,fr
+HI: The forest is burning,fire_emergency,hi
+BN: Everyone is running,other_emergency,bn
+HI: Someone stole my phone,police_assistance,hi
+BN: The power socket exploded,fire_emergency,bn
+FR: An old man is wandering alone,lost_person,fr
+We can't find our son,lost_person,en
+We lost our uncle during the event,lost_person,en
+BN: She went to the market and didn’t come back,lost_person,bn
+FR: We need help right now,other_emergency,fr
+ES: A person is having a seizure,medical_help,es
+FR: There is a storm coming,natural_disaster,fr
+HI: I’m being followed,police_assistance,hi
+I just witnessed a crime,police_assistance,en
+ES: Our house is flooding,natural_disaster,es
+BN: There is a storm coming,natural_disaster,bn
+BN: The landslide blocked the road,natural_disaster,bn
+BN: A person is having a seizure,medical_help,bn
+A person is having a seizure,medical_help,en
+ES: Everyone is running,other_emergency,es
+The power socket exploded,fire_emergency,en
+HI: The fire alarm is ringing,fire_emergency,hi
+ES: The situation is very bad,other_emergency,es
+ES: There’s a robbery going on,police_assistance,es
+BN: My mother hasn’t returned,lost_person,bn
+ES: She went to the market and didn’t come back,lost_person,es
+HI: Loud noises are coming from outside,other_emergency,hi
+Flames are visible outside,fire_emergency,en
+I lost my friend in the crowd,lost_person,en
+ES: We lost our uncle during the event,lost_person,es
+BN: Nobody is responding,other_emergency,bn
+He is missing since morning,lost_person,en
+HI: I lost my friend in the crowd,lost_person,hi
+FR: There’s smoke coming from the window,fire_emergency,fr
+HI: A man collapsed on the road,medical_help,hi
+ES: My house was broken into,police_assistance,es
+BN: We can't find our son,lost_person,bn
+BN: There’s a robbery going on,police_assistance,bn
+HI: Someone fainted here,medical_help,hi
