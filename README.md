@@ -66,8 +66,8 @@ Sahaayak/
 
 ### ✅ Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/sahaayak-emergency-bot.git
-cd sahaayak-emergency-bot
+git clone https://github.com/your-username/sahaayak-AI.git
+cd sahaayak-AI
 ```
 ### ✅ Step 3: Run the FastAPI Backend
 ```bash
