@@ -66,8 +66,8 @@ Sahaayak/
 
 ### ✅ Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/sahaayak-AI.git
-cd sahaayak-AI
+git clone https://github.com/your-username/Sahaayak-AI.git
+cd Sahaayak-AI
 ```
 ### ✅ Step 3: Run the FastAPI Backend
 ```bash
